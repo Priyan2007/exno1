@@ -142,3 +142,6 @@ df1 = df[z<3]
 df1
 ```
 ![image](https://github.com/user-attachments/assets/a371cdde-15fd-4292-9122-822805fb5f13)
+
+# Result
+ Thus we have cleaned the data and removed the outliers by detection using IQR and Z-score method.
